@@ -2,7 +2,7 @@
 #include<string.h>
 #include <fstream>
 #include <sys/time.h>
-
+//Deneme
 using namespace std;
 
 #define PENCERE 5
