@@ -3,6 +3,7 @@
 #include <fstream>
 #include <sys/time.h>
 //Deneme
+//1 /2
 using namespace std;
 
 #define PENCERE 5
