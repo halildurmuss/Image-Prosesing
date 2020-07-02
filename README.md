@@ -46,6 +46,8 @@ Daha sonra söz konusu script’i aşağıdaki gibi kullanabilirsiniz:
 
 Yukarıdaki komut görüntüyü dönüştürür, filtrelenmiş matris dosyasını kendisine argüman olarak alır ve sonrasında **GoruntuMatrisi3_filtered.jpg** isimli bir görüntü dosyası oluşturur. Bu filtrelenmiş görüntüyü gürültü içeren orijinal görüntü ile karşılaştırınız. C++ programının doğru çalışıp çalışmadığını anlayabilirsiniz.
 
+## Çıktı
+
 ### İlk hali: Goruntu3.jpg
 
 ![Goruntu3](https://user-images.githubusercontent.com/66306220/86370508-83247480-bc88-11ea-9001-18b27633f8a7.jpg)
