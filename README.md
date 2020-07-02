@@ -1,5 +1,5 @@
 # Görüntü İşleme
-## Görüntü işlemede kullanılan Ortalama Filtre sayesinde görüntü üzerindeki gürültüyü azaltmak.
+## Görüntü işlemede kullanılan Ortalama Filtre sayesinde görüntü üzerindeki gürültüyü azaltmak. Yazdığımız seri programı admin makinası üzerinde g++ ile derleyiniz.
 Görüntü işleme algoritmaları bir görüntüyü bilgisayar yardımıyla işleyebilmek amacıyla ilk etapda görüntüyü iki veya daha fazla boyuta sahip matrise dönüştürür. Bu matrisin her bir elemanının değeri ilgili görüntünün her bir pikselinin sayısal değerine eşittir.
 
 **Ortalama Filtre** belirli bir pencere aralığında (projede pencere boyutu 5x5 olarak kullanılıyor) sayıların ortlamasını bulmayı ve bu sayede söz konusu sayılar arasındaki aşırı farklılıkları ortadan kaldırmayı hedeflenmektedir. Yani Ortalama filtre sayesinde komşularından belirgin bir şekilde ayrışan piksellerin tespit edilmesi ve yumuşatılması amaçlanmaktadır.
