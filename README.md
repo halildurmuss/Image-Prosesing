@@ -45,3 +45,12 @@ Daha sonra söz konusu script’i aşağıdaki gibi kullanabilirsiniz:
 ***$ ./Proje1Script.sh  GoruntuMatrisi3_filtered.txt***
 
 Yukarıdaki komut görüntüyü dönüştürür, filtrelenmiş matris dosyasını kendisine argüman olarak alır ve sonrasında **GoruntuMatrisi3_filtered.jpg** isimli bir görüntü dosyası oluşturur. Bu filtrelenmiş görüntüyü gürültü içeren orijinal görüntü ile karşılaştırınız. C++ programının doğru çalışıp çalışmadığını anlayabilirsiniz.
+
+### İlk hali: Goruntu3.jpg
+
+![Goruntu3](https://user-images.githubusercontent.com/66306220/86370508-83247480-bc88-11ea-9001-18b27633f8a7.jpg)
+
+### Filtre uygulanmış hali: GoruntuMatrisi3_filtered.jpg
+
+![GoruntuMatrisi3_filtered](https://user-images.githubusercontent.com/66306220/86370482-7b64d000-bc88-11ea-9112-82c9b6219718.jpg)
+
